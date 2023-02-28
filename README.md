@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @djd1226
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-djd1226/djd1226 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## hello ,i'm dd,come in from china
+### my name is 雨过天晴
+正在学习Linux（learn linux）
